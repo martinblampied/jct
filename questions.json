@@ -12,11 +12,11 @@
     {
       "question": "Which of the following are prehistoric sites in Jersey?",
       "options": [
-        "La Cotte de St Brelande",
+        "Skara Brae",
         "La Cotte de St Lawrence",
-        "La Cotte à la Mouton",
         "Stonehenge",
-        "Skara Brae"
+        "La Cotte de St Brelande",
+        "La Cotte à la Mouton"
       ],
       "answer": "La Cotte de St Brelande"
     },
@@ -33,9 +33,9 @@
     {
       "question": "When did farmers begin to settle in Jersey?",
       "options": [
-        "The Neolithic period",
         "The Paleolithic period",
         "The Iron age",
+        "The Neolithic period",
         "The Bronze age"
       ],
       "answer": "The Neolithic period"
@@ -53,19 +53,19 @@
     {
       "question": "To which tribe did the island's population probably belong to at the time of the Roman occupation?",
       "options": [
-        "The Coriosolites",
         "The Asterixos",
         "The Gauls",
-        "The Cotini"
+        "The Cotini",
+        "The Coriosolites"
       ],
       "answer": "The Coriosolites"
     },
     {
       "question": "By what name was Jersey called when it was part of the Roman world?",
       "options": [
-        "Andium",
         "Arbolem",
         "Archium",
+        "Andium",
         "Angolem"
       ],
       "answer": "Andium"
@@ -83,9 +83,9 @@
     {
       "question": "Which missionary is believed to have converted islanders to Christianity?",
       "options": [
-        "St Marculf",
         "St Helier",
         "St Ouen",
+        "St Marculf",
         "St Saviour"
       ],
       "answer": "St Marculf"
@@ -93,9 +93,9 @@
     {
       "question": "What time were monastic communities first set up in Jersey?",
       "options": [
-        "The 8th century",
         "The 3rd century",
         "The 5th century",
+        "The 8th century",
         "The 13th century"
       ],
       "answer": "The 8th century"
@@ -123,9 +123,9 @@
     {
       "question": "When did Charlemagne impose his authority over Jersey by including it in the Diocese of Coutances?",
       "options": [
-        "The beginning of the 9th century",
         "The beginning of the 8th century",
         "The end of the 8th century",
+        "The beginning of the 9th century",
         "The end of the 9th century"
       ],
       "answer": "The beginning of the 9th century"
@@ -133,8 +133,8 @@
     {
       "question": "Which diocese did the island join during the Reformation?",
       "options": [
-        "Winchester",
         "Canterbury",
+        "Winchester",
         "Coutances",
         "Worcester"
       ],
@@ -143,10 +143,10 @@
     {
       "question": "From which group did the name 'Jersey' originate?",
       "options": [
-        "The Vikings",
         "The Normans",
         "The Celts",
-        "The Bretons"
+        "The Bretons",
+        "The Vikings"
       ],
       "answer": "The Vikings"
     },
@@ -173,8 +173,8 @@
     {
       "question": "What is the name of the local language of Jersey?",
       "options": [
-        "Jèrriais",
         "Jèrsiais",
+        "Jèrriais",
         "Jersyish",
         "Jèrsese"
       ],
@@ -193,8 +193,8 @@
     {
       "question": "What was the name of the parcels of land into which the second Duke of Normandy divided Jersey?",
       "options": [
-        "Fiefs",
         "Vergèes",
+        "Fiefs",
         "Parishes",
         "Zones"
       ],
@@ -203,9 +203,9 @@
     {
       "question": "What were the names of the landowners of Jersey after AD933?",
       "options": [
-        "Seigneurs",
         "Lord protectors",
         "Vingteniers",
+        "Seigneurs",
         "Écrivains"
       ],
       "answer": "Seigneurs"
@@ -233,7 +233,7 @@
     {
       "question": "Approximately how old is Mont Orgueil?",
       "options": [
-       "100 years",
+        "100 years",
         "170 years",
         "700 years",
         "1700 years"
@@ -253,19 +253,19 @@
     {
       "question": "Who was Mont Orgueil castle built to defend against?",
       "options": [
-        "The French",
         "The Normans",
         "The English",
-        "The Germans"
+        "The Germans",
+        "The French"
       ],
       "answer": "The French"
     },
     {
       "question": "What were the plans of the Queen for Jersey during the Wars of the Roses?",
       "options": [
-        "To sell it",
         "To destroy it",
         "To conquer it",
+        "To sell it",
         "To develop it"
       ],
       "answer": "To sell it"
@@ -273,8 +273,8 @@
     {
       "question": "Who occupied Jersey for seven years during the Wars of the Roses?",
       "options": [
-        "The French",
         "The Lancastrians",
+        "The French",
         "The Yorkists",
         "The Roundheads"
       ],
@@ -293,19 +293,19 @@
     {
       "question": "When did Jersey and Guernsey become two separate political entities?",
       "options": [
-        "1485 AD",
+        "933 AD",
         "1066 AD",
         "1204 AD",
-        "933 AD"
+        "1485 AD"
       ],
       "answer": "1204 AD"
     },
     {
       "question": "What religion did the island adopt during the Reformation?",
       "options": [
-        "Calvinist Protestantism",
         "Presbyterian Protestantism",
         "Methodist Protestantism",
+        "Calvinist Protestantism",
         "Anglican Protestantism"
       ],
       "answer": "Calvinist Protestantism"
@@ -313,8 +313,8 @@
     {
       "question": "What religion was imposed on the island in 1620?",
       "options": [
-        "Anglican Protestantism",
         "Calvinist Protestantism",
+        "Anglican Protestantism",
         "Presbyterian Protestantism",
         "Methodist Protestantism"
       ],
@@ -333,9 +333,9 @@
     {
       "question": "From where was there a sudden influx of refugees in the 1790s?",
       "options": [
-        "France",
         "Guernsey",
         "Portugal",
+        "France",
         "England"
       ],
       "answer": "France"
@@ -343,18 +343,18 @@
     {
       "question": "From where did English-speaking Catholics arrive in the 1830s and 40s?",
       "options": [
-        "Ireland",
         "England",
         "Scotland",
-        "Wales"
+        "Wales",
+        "Ireland"
       ],
       "answer": "Ireland"
     },
     {
       "question": "Which of the following is NOT a Catholic teaching or nursing order:",
       "options": [
-        "The Huguenots",
         "The De La Salle brothers",
+        "The Huguenots",
         "The Jesuits",
         "The Little Sisters of the Poor"
       ],
@@ -373,9 +373,9 @@
     {
       "question": "To where did George Carteret retreat during an attack by parliamentary forces?",
       "options": [
-        "Elizabeth Castle",
         "Mont Orgueil Castle",
         "Fort Regent",
+        "Elizabeth Castle",
         "St Aubin's fort"
       ],
       "answer": "Elizabeth Castle"
@@ -383,10 +383,10 @@
     {
       "question": "What was the principal activity conducted out of Jersey that was of benefit to the Crown?",
       "options": [
-        "He operated a privateering fleet",
-        "He conducted trade with Newfoundland",
-        "He ran an influential bank",
-        "He was a large investor in construction"
+        "Conducted trade with Newfoundland",
+        "Ran an influential bank",
+        "Was a large investor in construction",
+        "Operated a privateering fleet"
       ],
       "answer": "He operated a privateering fleet"
     },
@@ -403,8 +403,8 @@
     {
       "question": "Who invaded Jersey in 1651?",
       "options": [
-        "Parliamentarians",
         "Royalists",
+        "Parliamentarians",
         "The French",
         "The Normans"
       ],
@@ -413,9 +413,9 @@
     {
       "question": "Where did Charles II stay when he visited Jersey?",
       "options": [
-        "Elizabeth Castle",
         "Gorey Castle",
         "The L'horizon hotel",
+        "Elizabeth Castle",
         "The Royal Yacht"
       ],
       "answer": "Elizabeth Castle"
@@ -423,9 +423,9 @@
     {
       "question": "Who was the first place to pronounce Charles II king?",
       "options": [
-        "Jersey",
         "England",
         "Wales",
+        "Jersey",
         "Scotland"
       ],
       "answer": "Jersey"
@@ -441,18 +441,18 @@
     {
       "question": "Where was William Prynne imprisoned?",
       "options": [
-        "Mont Orgueil",
         "Elizabeth Castle",
         "Queen's road police station",
-        "Samares manor"
+        "Samares manor",
+        "Mont Orgueil"
       ],
       "answer": "Mont Orgueil"
     },
     {
       "question": "What was the origin of New Jersey in the United States?",
       "options": [
-        "It was gifted to a Jerseyman by Charles II",
         "It was a place many settlers from Jersey arrived",
+        "It was gifted to a Jerseyman by Charles II",
         "It was discovered by a Jerseyman",
         "The landscape reminded the colonists of Jersey"
       ],
@@ -487,9 +487,9 @@
     {
       "question": "Who was responsible for the fortifications on Jersey during the German Occupation?",
       "options": [
-        "Organisation Todt",
         "The SS",
         "The Luftwaffe",
+        "Organisation Todt",
         "The Wehrmacht"
       ],
       "answer": "Organisation Todt"
@@ -497,8 +497,8 @@
     {
       "question": "When was the Liberation of Jersey celebrated?",
       "options": [
-        "May 9th",
         "April 20th",
+        "May 9th",
         "June 6th",
         "July 1st"
       ],
@@ -517,9 +517,9 @@
     {
       "question": "Who led the successful defense of Jersey during the Battle of Jersey in 1781?",
       "options": [
-        "Major Peirson",
         "Moyse Corbet",
         "George Carteret",
+        "Major Peirson",
         "William Prynne"
       ],
       "answer": "Major Peirson"
@@ -547,8 +547,8 @@
     {
       "question": "Who was the famous French writer that lived in Jersey and was expelled in 1855?",
       "options": [
-        "Victor Hugo",
         "Jean-Jacques Rousseau",
+        "Victor Hugo",
         "Émile Zola",
         "Alexandre Dumas"
       ],
@@ -557,10 +557,10 @@
     {
       "question": "What was the primary source of income for Jersey during the 19th century?",
       "options": [
-        "Shipbuilding",
         "Finance",
         "Agriculture",
-        "Tourism"
+        "Tourism",
+        "Shipbuilding"
       ],
       "answer": "Shipbuilding"
     },
@@ -577,9 +577,9 @@
     {
       "question": "What crop is Jersey most famous for?",
       "options": [
-        "Jersey Royal potatoes",
         "Wheat",
         "Barley",
+        "Jersey Royal potatoes",
         "Sugar beets"
       ],
       "answer": "Jersey Royal potatoes"
@@ -607,18 +607,18 @@
     {
       "question": "When did Jersey officially become a Crown Dependency?",
       "options": [
-        "1204",
-        "1485",
+        "933",
         "1066",
-        "933"
+        "1204",
+        "1485"
       ],
       "answer": "1204"
     },
     {
       "question": "What was the purpose of the La Hougue Bie?",
       "options": [
-        "A Neolithic burial mound",
         "A medieval fortress",
+        "A Neolithic burial mound",
         "A lighthouse",
         "A place of worship"
       ],
@@ -627,18 +627,18 @@
     {
       "question": "Who ruled Jersey during the English Civil War?",
       "options": [
-        "George Carteret",
         "William Longsword",
         "Major Peirson",
-        "John Wesley"
+        "John Wesley",
+        "George Carteret"
       ],
       "answer": "George Carteret"
     },
     {
       "question": "What is the capital of Jersey?",
       "options": [
-        "St Helier",
         "St Brelade",
+        "St Helier",
         "Grouville",
         "St Ouen"
       ],
@@ -657,9 +657,9 @@
     {
       "question": "What is Jersey famous for producing?",
       "options": [
-        "Potatoes",
         "Oranges",
         "Rice",
+        "Potatoes",
         "Bananas"
       ],
       "answer": "Potatoes"
@@ -667,8 +667,8 @@
     {
       "question": "Which body of water surrounds Jersey?",
       "options": [
-        "English Channel",
         "Atlantic Ocean",
+        "English Channel",
         "North Sea",
         "Mediterranean Sea"
       ],
@@ -677,10 +677,10 @@
     {
       "question": "What is the population of Jersey as of the 2021 census?",
       "options": [
-        "103,267",
         "50,000",
-        "200,000",
-        "75,000"
+        "75,000",
+        "103,267",
+        "200,000"
       ],
       "answer": "103,267"
     },
@@ -707,9 +707,9 @@
     {
       "question": "What is the name of the traditional Jersey cow?",
       "options": [
-        "Jersey cow",
         "Guernsey cow",
         "Holstein",
+        "Jersey cow",
         "Angus"
       ],
       "answer": "Jersey cow"
@@ -717,8 +717,8 @@
     {
       "question": "Which public holiday is unique to Jersey?",
       "options": [
-        "Liberation Day",
         "Christmas",
+        "Liberation Day",
         "Easter",
         "Good Friday"
       ],
@@ -727,8 +727,8 @@
     {
       "question": "When is Liberation Day celebrated in Jersey?",
       "options": [
-        "May 9th",
         "April 1st",
+        "May 9th",
         "June 15th",
         "July 4th"
       ],
@@ -757,8 +757,8 @@
     {
       "question": "Jersey is part of which group of islands?",
       "options": [
-        "Channel Islands",
         "Canary Islands",
+        "Channel Islands",
         "Scilly Isles",
         "Orkney Islands"
       ],
@@ -767,9 +767,9 @@
     {
       "question": "Which famous British monarch visited Jersey during the English Civil War?",
       "options": [
-        "Charles II",
         "Elizabeth I",
         "Victoria",
+        "Charles II",
         "Henry VIII"
       ],
       "answer": "Charles II"
@@ -777,8 +777,8 @@
     {
       "question": "What type of government does Jersey have?",
       "options": [
-        "Parliamentary democracy",
         "Monarchy",
+        "Parliamentary democracy",
         "Dictatorship",
         "Republic"
       ],
@@ -807,9 +807,9 @@
     {
       "question": "What is the name of Jersey's parliament?",
       "options": [
-        "The States Assembly",
         "The House of Commons",
         "The House of Lords",
+        "The States Assembly",
         "The Senate"
       ],
       "answer": "The States Assembly"
@@ -837,19 +837,19 @@
     {
       "question": "What was the primary purpose of privateers from Jersey?",
       "options": [
-        "To attack enemy shipping",
         "To trade with Europe",
         "To explore new lands",
-        "To fish"
+        "To fish",
+        "To attack enemy shipping"
       ],
       "answer": "To attack enemy shipping"
     },
     {
       "question": "Who established Elizabeth Castle?",
       "options": [
-        "Sir Walter Raleigh",
         "Henry VIII",
         "Queen Victoria",
+        "Sir Walter Raleigh",
         "William the Conqueror"
       ],
       "answer": "Sir Walter Raleigh"
@@ -857,9 +857,9 @@
     {
       "question": "What year did the German Occupation of Jersey end?",
       "options": [
-        "1945",
         "1918",
         "1940",
+        "1945",
         "1960"
       ],
       "answer": "1945"
@@ -877,8 +877,8 @@
     {
       "question": "What is the highest point in Jersey?",
       "options": [
-        "Les Platons",
         "Mont Orgueil",
+        "Les Platons",
         "Elizabeth Castle",
         "St Helier"
       ],
@@ -887,9 +887,9 @@
     {
       "question": "What is the main export product of Jersey?",
       "options": [
-        "Dairy products",
         "Cotton",
         "Cars",
+        "Dairy products",
         "Fish"
       ],
       "answer": "Dairy products"
@@ -907,8 +907,8 @@
     {
       "question": "What type of climate does Jersey have?",
       "options": [
-        "Temperate",
         "Tropical",
+        "Temperate",
         "Desert",
         "Arctic"
       ],
@@ -917,19 +917,19 @@
     {
       "question": "What year was Jersey separated from the Duchy of Normandy?",
       "options": [
-        "1204",
+        "933",
         "1066",
-        "1500",
-        "933"
+        "1204",
+        "1500"
       ],
       "answer": "1204"
     },
     {
       "question": "Who is the current monarch of Jersey?",
       "options": [
-        "King Charles III",
         "Queen Elizabeth II",
         "King George VI",
+        "King Charles III",
         "King Henry VIII"
       ],
       "answer": "King Charles III"
@@ -947,9 +947,9 @@
     {
       "question": "What are the names of the two reefs part of the Bailiwick of Jersey?",
       "options": [
-        "The Minquiers and the Ecréhous",
         "The Scilly Isles and St Malo",
         "The Orkneys and Shetlands",
+        "The Minquiers and the Ecréhous",
         "The Falklands and Bermuda"
       ],
       "answer": "The Minquiers and the Ecréhous"
@@ -957,8 +957,8 @@
     {
       "question": "What is the legal system in Jersey based on?",
       "options": [
-        "Norman customary law",
         "Roman law",
+        "Norman customary law",
         "Common law",
         "French Civil Code"
       ],
@@ -977,9 +977,9 @@
     {
       "question": "What is the name of the largest parish in Jersey?",
       "options": [
-        "St Ouen",
         "St Helier",
         "Grouville",
+        "St Ouen",
         "St Brelade"
       ],
       "answer": "St Ouen"
@@ -997,10 +997,10 @@
     {
       "question": "What is the significance of the Battle of Jersey?",
       "options": [
-        "It was a victory against the French in 1781",
         "It marked the end of the German Occupation",
         "It was the last Viking invasion",
-        "It was a religious conflict"
+        "It was a religious conflict",
+        "It was a victory against the French in 1781"
       ],
       "answer": "It was a victory against the French in 1781"
     },
@@ -1017,9 +1017,9 @@
     {
       "question": "Who is responsible for the external defense of Jersey?",
       "options": [
+        "The European Union",
         "The United Kingdom",
         "France",
-        "The European Union",
         "The USA"
       ],
       "answer": "The United Kingdom"
@@ -1037,9 +1037,9 @@
     {
       "question": "What was the occupation of most Islanders before the finance industry?",
       "options": [
-        "Farmers and fishermen",
         "Factory workers",
         "Miners",
+        "Farmers and fishermen",
         "Teachers"
       ],
       "answer": "Farmers and fishermen"
@@ -1067,8 +1067,8 @@
     {
       "question": "What significant event is marked by Jersey's annual International Air Display?",
       "options": [
-        "Liberation Day",
         "D-Day",
+        "Liberation Day",
         "World War I",
         "The Queen's Jubilee"
       ],
@@ -1077,9 +1077,9 @@
     {
       "question": "What was the primary use of Elizabeth Castle during World War II?",
       "options": [
-        "A German fortification",
         "A royal residence",
         "A civilian shelter",
+        "A German fortification",
         "A hospital"
       ],
       "answer": "A German fortification"
