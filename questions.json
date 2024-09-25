@@ -2,9 +2,9 @@
     {
       "question": "When is the first evidence of human activity in Jersey?",
       "options": [
-        "250,000 years ago",
-        "150,000 years ago",
         "100,000 years ago",
+        "150,000 years ago",
+        "250,000 years ago",
         "500,000 years ago"
       ],
       "answer": "250,000 years ago"
@@ -113,10 +113,10 @@
     {
       "question": "How many years was Jersey part of the Diocese of Coutances?",
       "options": [
-        "700 years",
         "70 years",
         "140 years",
-        "350 years"
+        "350 years",
+        "700 years"
       ],
       "answer": "700 years"
     },
@@ -223,8 +223,8 @@
     {
       "question": "When did Philippe II gain control of Normandy?",
       "options": [
-        "1204",
         "1202",
+        "1204",
         "1220",
         "1240"
       ],
@@ -233,9 +233,9 @@
     {
       "question": "Approximately how old is Mont Orgueil?",
       "options": [
-        "700 years",
-        "100 years",
+       "100 years",
         "170 years",
+        "700 years",
         "1700 years"
       ],
       "answer": "700 years"
@@ -393,8 +393,8 @@
     {
       "question": "In which year of the 17th century was Jersey invaded?",
       "options": [
-        "1651",
         "1605",
+        "1651",
         "1673",
         "1685"
       ],
@@ -477,10 +477,10 @@
     {
       "question": "How long was Jersey occupied by the French during the Wars of the Roses?",
       "options": [
-        "Seven years",
+        "Three years",
         "Five years",
-        "Ten years",
-        "Three years"
+        "Seven years",
+        "Ten years"
       ],
       "answer": "Seven years"
     },
@@ -687,10 +687,10 @@
     {
       "question": "How many parishes are there in Jersey?",
       "options": [
-        "12",
+        "8",
         "10",
-        "14",
-        "8"
+        "12",
+        "14"
       ],
       "answer": "12"
     },
@@ -867,10 +867,10 @@
     {
       "question": "What is the size of Jersey?",
       "options": [
-        "45 square miles",
-        "100 square miles",
         "30 square miles",
-        "60 square miles"
+        "45 square miles",
+        "60 square miles",
+        "100 square miles"
       ],
       "answer": "45 square miles"
     },
@@ -967,9 +967,9 @@
     {
       "question": "When was the States Assembly established?",
       "options": [
+        "1204",
         "1771",
         "1800",
-        "1204",
         "1945"
       ],
       "answer": "1771"
@@ -1027,8 +1027,8 @@
     {
       "question": "What year did the Reformation take place in Jersey?",
       "options": [
-        "1569",
         "1204",
+        "1569",
         "1781",
         "1945"
       ],
