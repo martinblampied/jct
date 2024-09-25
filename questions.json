@@ -633,6 +633,456 @@
         "John Wesley"
       ],
       "answer": "George Carteret"
+    },
+    {
+      "question": "What is the capital of Jersey?",
+      "options": [
+        "St Helier",
+        "St Brelade",
+        "Grouville",
+        "St Ouen"
+      ],
+      "answer": "St Helier"
+    },
+    {
+      "question": "What is the local language spoken in Jersey?",
+      "options": [
+        "Jèrriais",
+        "French",
+        "English",
+        "Breton"
+      ],
+      "answer": "Jèrriais"
+    },
+    {
+      "question": "What is Jersey famous for producing?",
+      "options": [
+        "Potatoes",
+        "Oranges",
+        "Rice",
+        "Bananas"
+      ],
+      "answer": "Potatoes"
+    },
+    {
+      "question": "Which body of water surrounds Jersey?",
+      "options": [
+        "English Channel",
+        "Atlantic Ocean",
+        "North Sea",
+        "Mediterranean Sea"
+      ],
+      "answer": "English Channel"
+    },
+    {
+      "question": "What is the population of Jersey as of the 2021 census?",
+      "options": [
+        "103,267",
+        "50,000",
+        "200,000",
+        "75,000"
+      ],
+      "answer": "103,267"
+    },
+    {
+      "question": "How many parishes are there in Jersey?",
+      "options": [
+        "12",
+        "10",
+        "14",
+        "8"
+      ],
+      "answer": "12"
+    },
+    {
+      "question": "Who is the head of the Anglican Church in Jersey?",
+      "options": [
+        "The Dean",
+        "The Queen",
+        "The Prime Minister",
+        "The Bishop of Canterbury"
+      ],
+      "answer": "The Dean"
+    },
+    {
+      "question": "What is the name of the traditional Jersey cow?",
+      "options": [
+        "Jersey cow",
+        "Guernsey cow",
+        "Holstein",
+        "Angus"
+      ],
+      "answer": "Jersey cow"
+    },
+    {
+      "question": "Which public holiday is unique to Jersey?",
+      "options": [
+        "Liberation Day",
+        "Christmas",
+        "Easter",
+        "Good Friday"
+      ],
+      "answer": "Liberation Day"
+    },
+    {
+      "question": "When is Liberation Day celebrated in Jersey?",
+      "options": [
+        "May 9th",
+        "April 1st",
+        "June 15th",
+        "July 4th"
+      ],
+      "answer": "May 9th"
+    },
+    {
+      "question": "What is the main industry of Jersey today?",
+      "options": [
+        "Finance",
+        "Agriculture",
+        "Tourism",
+        "Fishing"
+      ],
+      "answer": "Finance"
+    },
+    {
+      "question": "Which country is closest to Jersey?",
+      "options": [
+        "France",
+        "England",
+        "Spain",
+        "Ireland"
+      ],
+      "answer": "France"
+    },
+    {
+      "question": "Jersey is part of which group of islands?",
+      "options": [
+        "Channel Islands",
+        "Canary Islands",
+        "Scilly Isles",
+        "Orkney Islands"
+      ],
+      "answer": "Channel Islands"
+    },
+    {
+      "question": "Which famous British monarch visited Jersey during the English Civil War?",
+      "options": [
+        "Charles II",
+        "Elizabeth I",
+        "Victoria",
+        "Henry VIII"
+      ],
+      "answer": "Charles II"
+    },
+    {
+      "question": "What type of government does Jersey have?",
+      "options": [
+        "Parliamentary democracy",
+        "Monarchy",
+        "Dictatorship",
+        "Republic"
+      ],
+      "answer": "Parliamentary democracy"
+    },
+    {
+      "question": "What is the main religion in Jersey?",
+      "options": [
+        "Christianity",
+        "Islam",
+        "Buddhism",
+        "Hinduism"
+      ],
+      "answer": "Christianity"
+    },
+    {
+      "question": "What is the official language of Jersey's government?",
+      "options": [
+        "English",
+        "French",
+        "Jèrriais",
+        "Spanish"
+      ],
+      "answer": "English"
+    },
+    {
+      "question": "What is the name of Jersey's parliament?",
+      "options": [
+        "The States Assembly",
+        "The House of Commons",
+        "The House of Lords",
+        "The Senate"
+      ],
+      "answer": "The States Assembly"
+    },
+    {
+      "question": "What is the famous potato grown in Jersey called?",
+      "options": [
+        "Jersey Royal",
+        "Yukon Gold",
+        "Maris Piper",
+        "Russet"
+      ],
+      "answer": "Jersey Royal"
+    },
+    {
+      "question": "Which country has political responsibility for Jersey?",
+      "options": [
+        "United Kingdom",
+        "France",
+        "Ireland",
+        "Germany"
+      ],
+      "answer": "United Kingdom"
+    },
+    {
+      "question": "What was the primary purpose of privateers from Jersey?",
+      "options": [
+        "To attack enemy shipping",
+        "To trade with Europe",
+        "To explore new lands",
+        "To fish"
+      ],
+      "answer": "To attack enemy shipping"
+    },
+    {
+      "question": "Who established Elizabeth Castle?",
+      "options": [
+        "Sir Walter Raleigh",
+        "Henry VIII",
+        "Queen Victoria",
+        "William the Conqueror"
+      ],
+      "answer": "Sir Walter Raleigh"
+    },
+    {
+      "question": "What year did the German Occupation of Jersey end?",
+      "options": [
+        "1945",
+        "1918",
+        "1940",
+        "1960"
+      ],
+      "answer": "1945"
+    },
+    {
+      "question": "What is the size of Jersey?",
+      "options": [
+        "45 square miles",
+        "100 square miles",
+        "30 square miles",
+        "60 square miles"
+      ],
+      "answer": "45 square miles"
+    },
+    {
+      "question": "What is the highest point in Jersey?",
+      "options": [
+        "Les Platons",
+        "Mont Orgueil",
+        "Elizabeth Castle",
+        "St Helier"
+      ],
+      "answer": "Les Platons"
+    },
+    {
+      "question": "What is the main export product of Jersey?",
+      "options": [
+        "Dairy products",
+        "Cotton",
+        "Cars",
+        "Fish"
+      ],
+      "answer": "Dairy products"
+    },
+    {
+      "question": "Who built Mont Orgueil Castle?",
+      "options": [
+        "The English",
+        "The French",
+        "The Vikings",
+        "The Romans"
+      ],
+      "answer": "The English"
+    },
+    {
+      "question": "What type of climate does Jersey have?",
+      "options": [
+        "Temperate",
+        "Tropical",
+        "Desert",
+        "Arctic"
+      ],
+      "answer": "Temperate"
+    },
+    {
+      "question": "What year was Jersey separated from the Duchy of Normandy?",
+      "options": [
+        "1204",
+        "1066",
+        "1500",
+        "933"
+      ],
+      "answer": "1204"
+    },
+    {
+      "question": "Who is the current monarch of Jersey?",
+      "options": [
+        "King Charles III",
+        "Queen Elizabeth II",
+        "King George VI",
+        "King Henry VIII"
+      ],
+      "answer": "King Charles III"
+    },
+    {
+      "question": "What was Jersey's economy primarily based on before finance?",
+      "options": [
+        "Agriculture",
+        "Tourism",
+        "Manufacturing",
+        "Mining"
+      ],
+      "answer": "Agriculture"
+    },
+    {
+      "question": "What are the names of the two reefs part of the Bailiwick of Jersey?",
+      "options": [
+        "The Minquiers and the Ecréhous",
+        "The Scilly Isles and St Malo",
+        "The Orkneys and Shetlands",
+        "The Falklands and Bermuda"
+      ],
+      "answer": "The Minquiers and the Ecréhous"
+    },
+    {
+      "question": "What is the legal system in Jersey based on?",
+      "options": [
+        "Norman customary law",
+        "Roman law",
+        "Common law",
+        "French Civil Code"
+      ],
+      "answer": "Norman customary law"
+    },
+    {
+      "question": "When was the States Assembly established?",
+      "options": [
+        "1771",
+        "1800",
+        "1204",
+        "1945"
+      ],
+      "answer": "1771"
+    },
+    {
+      "question": "What is the name of the largest parish in Jersey?",
+      "options": [
+        "St Ouen",
+        "St Helier",
+        "Grouville",
+        "St Brelade"
+      ],
+      "answer": "St Ouen"
+    },
+    {
+      "question": "Which military force attempted to invade Jersey in 1781?",
+      "options": [
+        "The French",
+        "The Spanish",
+        "The Germans",
+        "The Vikings"
+      ],
+      "answer": "The French"
+    },
+    {
+      "question": "What is the significance of the Battle of Jersey?",
+      "options": [
+        "It was a victory against the French in 1781",
+        "It marked the end of the German Occupation",
+        "It was the last Viking invasion",
+        "It was a religious conflict"
+      ],
+      "answer": "It was a victory against the French in 1781"
+    },
+    {
+      "question": "What is the traditional music style associated with Jersey?",
+      "options": [
+        "Folk music",
+        "Classical music",
+        "Jazz",
+        "Pop"
+      ],
+      "answer": "Folk music"
+    },
+    {
+      "question": "Who is responsible for the external defense of Jersey?",
+      "options": [
+        "The United Kingdom",
+        "France",
+        "The European Union",
+        "The USA"
+      ],
+      "answer": "The United Kingdom"
+    },
+    {
+      "question": "What year did the Reformation take place in Jersey?",
+      "options": [
+        "1569",
+        "1204",
+        "1781",
+        "1945"
+      ],
+      "answer": "1569"
+    },
+    {
+      "question": "What was the occupation of most Islanders before the finance industry?",
+      "options": [
+        "Farmers and fishermen",
+        "Factory workers",
+        "Miners",
+        "Teachers"
+      ],
+      "answer": "Farmers and fishermen"
+    },
+    {
+      "question": "Who established the first monastic community in Jersey?",
+      "options": [
+        "St Marculf",
+        "St Helier",
+        "William Longsword",
+        "King John"
+      ],
+      "answer": "St Marculf"
+    },
+    {
+      "question": "What is the name of the primary Jersey newspaper?",
+      "options": [
+        "Jersey Evening Post",
+        "The Times",
+        "The Guardian",
+        "Jersey Gazette"
+      ],
+      "answer": "Jersey Evening Post"
+    },
+    {
+      "question": "What significant event is marked by Jersey's annual International Air Display?",
+      "options": [
+        "Liberation Day",
+        "D-Day",
+        "World War I",
+        "The Queen's Jubilee"
+      ],
+      "answer": "Liberation Day"
+    },
+    {
+      "question": "What was the primary use of Elizabeth Castle during World War II?",
+      "options": [
+        "A German fortification",
+        "A royal residence",
+        "A civilian shelter",
+        "A hospital"
+      ],
+      "answer": "A German fortification"
     }
   ]
   
