@@ -105,16 +105,16 @@ export default function Quiz() {
                   <div key={index} className="flex items-center space-x-2">
                     <RadioGroupItem value={option} id={`option-${index}`} />
                     <Label htmlFor={`option-${index}`} className={
-                      answerSubmitted
-                        ? option === quizData[currentQuestion].answer
-                          ? "text-green-600 font-bold"
-                          : selectedAnswer === option
-                            ? "text-red-600 line-through"
-                            : ""
-                        : ""
-                    }>
-                      {option}
-                    </Label>
+                    answerSubmitted
+                      ? option === questions[currentQuestion].answer
+                        ? "text-green-600 font-bold"
+                        : selectedAnswer === option && selectedAnswer !== questions[currentQuestion].answer
+                          ? "text-red-600 line-through"
+                          : ""
+                      : ""
+                  }>
+                    {option}
+                  </Label>
                   </div>
                 ))}
               </RadioGroup>
