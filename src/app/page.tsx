@@ -101,7 +101,7 @@ export default function Quiz() {
                 Question {currentQuestion + 1} of {questions.length}
               </p>
               <p className="text-sm text-gray-600">
-                Correct: {score} | Answeblue: {currentQuestion} | Total: {questions.length}
+                Correct: {score} | Answered: {currentQuestion} | Total: {questions.length}
               </p>
             </div>
             <h2 className="text-xl font-bold mb-4">{questions[currentQuestion]?.question}</h2>
