@@ -555,16 +555,6 @@
       "answer": "Victor Hugo"
     },
     {
-      "question": "What was the primary source of income for Jersey during the 19th century?",
-      "options": [
-        "Finance",
-        "Agriculture",
-        "Tourism",
-        "Shipbuilding"
-      ],
-      "answer": "Shipbuilding"
-    },
-    {
       "question": "Who was the Duke of Normandy when Jersey was annexed in 933?",
       "options": [
         "William Longsword",
@@ -583,16 +573,6 @@
         "Sugar beets"
       ],
       "answer": "Jersey Royal potatoes"
-    },
-    {
-      "question": "Who were the original builders of Mont Orgueil?",
-      "options": [
-        "The Normans",
-        "The English",
-        "The French",
-        "The Vikings"
-      ],
-      "answer": "The English"
     },
     {
       "question": "What was the function of Elizabeth Castle?",
@@ -775,16 +755,6 @@
       "answer": "Charles II"
     },
     {
-      "question": "What type of government does Jersey have?",
-      "options": [
-        "Monarchy",
-        "Parliamentary democracy",
-        "Dictatorship",
-        "Republic"
-      ],
-      "answer": "Parliamentary democracy"
-    },
-    {
       "question": "What is the main religion in Jersey?",
       "options": [
         "Christianity",
@@ -793,16 +763,6 @@
         "Hinduism"
       ],
       "answer": "Christianity"
-    },
-    {
-      "question": "What is the official language of Jersey's government?",
-      "options": [
-        "English",
-        "French",
-        "Jèrriais",
-        "Spanish"
-      ],
-      "answer": "English"
     },
     {
       "question": "What is the name of Jersey's parliament?",
